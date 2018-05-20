@@ -1,0 +1,10 @@
+D:\FuzzyAHP\FuzzyAHP\bin\Debug\FuzzyAHP.exe.config
+D:\FuzzyAHP\FuzzyAHP\bin\Debug\FuzzyAHP.exe
+D:\FuzzyAHP\FuzzyAHP\bin\Debug\FuzzyAHP.pdb
+D:\FuzzyAHP\FuzzyAHP\obj\Debug\FuzzyAHP.csprojAssemblyReference.cache
+D:\FuzzyAHP\FuzzyAHP\obj\Debug\FuzzyAHP.Properties.Resources.resources
+D:\FuzzyAHP\FuzzyAHP\obj\Debug\FuzzyAHP.csproj.GenerateResource.cache
+D:\FuzzyAHP\FuzzyAHP\obj\Debug\FuzzyAHP.csproj.CoreCompileInputs.cache
+D:\FuzzyAHP\FuzzyAHP\obj\Debug\FuzzyAHP.exe
+D:\FuzzyAHP\FuzzyAHP\obj\Debug\FuzzyAHP.pdb
+D:\FuzzyAHP\FuzzyAHP\obj\Debug\FuzzyAHP.Form1.resources
